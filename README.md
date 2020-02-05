@@ -6,4 +6,4 @@ I've made use of API taken from the [OpenWeatherMap](https://openweathermap.org)
 I've used [Bulma](https://bulma.io/) Framework for the css layout rather than Bootstrap or any other technology. It made my work really easy and attractive. <br />
 
 ### About the App -:
-I have two sides of the WebApp. One is the Client side where a user can type in the name of any city and that city will be displayed below with it's current temperature in Celsius. He/She can also remove a particular city by clicking on the little cross sign that I've appended on top-right corner. The other one is the Admin side wherein the Admin can login and access & update all functionalities.
+I have two sides of the WebApp. where a user can type in the name of any city and that city will be displayed below with it's current temperature in Celsius. He/She can also remove a particular city by clicking on the little cross sign that I've appended on top-right corner. The other one is the Admin side wherein the Admin can login and access & update all functionalities.
